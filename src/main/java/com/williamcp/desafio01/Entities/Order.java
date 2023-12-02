@@ -4,6 +4,7 @@ public class Order {
     private Integer code;
     private Double basic;
     private Double discount;
+    
     public Integer getCode() {
         return code;
     }
